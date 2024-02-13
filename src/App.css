@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(23, 27, 39);
+    height: 100vh;
+}
+
+.content{
+    background-color: aquamarine;
+}
